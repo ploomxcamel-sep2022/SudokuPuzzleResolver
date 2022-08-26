@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "solver.h"
 
-//–â‘è•¶‚ğmain‚Å’¼Ú—^‚¦‚é
+//å•é¡Œæ–‡ã‚’mainã§ç›´æ¥ä¸ãˆã‚‹
 main()
 {
 	int z;
